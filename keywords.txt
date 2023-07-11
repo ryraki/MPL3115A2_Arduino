@@ -1,0 +1,12 @@
+MPL3115A2_Arduino	KEYWORD1
+init	KEYWORD1
+set_interrupt	KEYWORD1
+dis_interrupt	KEYWORD1
+start_conversion	KEYWORD1
+getP	KEYWORD1
+getT	KEYWORD1
+set_sealevel	KEYWORD1
+set_threshold	KEYWORD1
+mode	KEYWORD2
+oneshot	KEYWORD2
+oversample	KEYWORD2
