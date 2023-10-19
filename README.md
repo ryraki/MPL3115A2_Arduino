@@ -13,7 +13,7 @@ Device Information|Datasheet|Board Information
 ## How to use
 Use Library manager pane in Arduino IDE (the books mark), put this library name (MPL3115A2_Arduino) and click INSTALL button. This library is copied to your Arduino library folder (default: &lt;Your Documents folder&gt;\Arduino\libraries).  
 You can find example codes inside this library by selecting from [File]-&gt;[Examples]-&gt;[MPL3115A2_Arduino].  
-Please see the documents of [docs/class_f_x_l_s89xx___arduino.html](https://ryraki.github.io/MPL3115A2_Arduino/class_m_p_l3115_a2___arduino.html) in order to get the information of all the functions.
+Please see the documents of [docs/class_m_p_l3115_a2___arduino.html](https://ryraki.github.io/MPL3115A2_Arduino/class_m_p_l3115_a2___arduino.html) in order to get the information of all the functions.
 
 ## What are inside in this library?
 ### List of contents
